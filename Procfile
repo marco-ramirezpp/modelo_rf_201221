@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run modelo_clasificacion_clientes.py
